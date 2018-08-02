@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="471b2773-3e4d-47b9-bb54-08e09b25a893" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/permissions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/snippets/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/serializers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/snippets/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/snippets/views.py" afterDir="false" />
     </list>
@@ -49,8 +44,8 @@
           <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mysite/settings.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="417">
-                  <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="103" selection-end-column="54" />
+                <state relative-caret-position="1530">
+                  <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="103" selection-end-column="54" />
                 </state>
               </provider>
             </entry>
@@ -58,7 +53,7 @@
           <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/snippets/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
+                <state relative-caret-position="225">
                   <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
                   <folding>
                     <element signature="e#0#28#0" expanded="true" />
@@ -67,25 +62,23 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="serializers.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="serializers.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/snippets/serializers.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="540">
-                  <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+                <state relative-caret-position="945">
+                  <caret line="66" selection-start-line="66" selection-end-line="66" />
                   <folding>
                     <element signature="e#0#38#0" expanded="true" />
-                    <element signature="e#163#1343#0" />
-                    <element signature="e#1410#1518#0" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/snippets/views.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="-753">
-                  <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+                <state relative-caret-position="717">
+                  <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
                   <folding>
                     <element signature="e#0#35#0" expanded="true" />
                   </folding>
@@ -152,7 +145,7 @@
           <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/polls/models.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="300">
+                <state relative-caret-position="255">
                   <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
                   <folding>
                     <element signature="e#0#28#0" expanded="true" />
@@ -164,11 +157,8 @@
           <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/snippets/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="315">
-                  <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-                  <folding>
-                    <element signature="e#0#32#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="525">
+                  <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
                 </state>
               </provider>
             </entry>
@@ -177,7 +167,7 @@
             <entry file="file://$PROJECT_DIR$/snippets/permissions.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state>
-                  <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+                  <caret column="38" selection-start-column="38" selection-end-column="38" />
                 </state>
               </provider>
             </entry>
@@ -258,9 +248,9 @@
         <option value="$PROJECT_DIR$/snippets/permission.py" />
         <option value="$PROJECT_DIR$/snippets/permissions.py" />
         <option value="$PROJECT_DIR$/mysite/settings.py" />
-        <option value="$PROJECT_DIR$/snippets/urls.py" />
-        <option value="$PROJECT_DIR$/snippets/views.py" />
         <option value="$PROJECT_DIR$/snippets/serializers.py" />
+        <option value="$PROJECT_DIR$/snippets/views.py" />
+        <option value="$PROJECT_DIR$/snippets/urls.py" />
       </list>
     </option>
   </component>
@@ -274,7 +264,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="563" />
+    <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="834" />
   </component>
@@ -377,21 +367,28 @@
       <option name="project" value="LOCAL" />
       <updated>1533054131912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[U]Update With Hyperlinks.">
+      <created>1533125533203</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1533125533203</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2170" height="1440" extended-state="6" />
+    <frame x="0" y="0" width="2131" height="1440" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49765038" visible="true" weight="0.24359912" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49736717" visible="true" weight="0.27212876" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.5023496" side_tool="true" visible="true" weight="0.24359912" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10761278" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.50263286" side_tool="true" visible="true" weight="0.27212876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26807085" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -415,7 +412,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[U]Update Views." />
-    <option name="LAST_COMMIT_MESSAGE" value="[U]Update Views." />
+    <MESSAGE value="[U]Update With Hyperlinks." />
+    <option name="LAST_COMMIT_MESSAGE" value="[U]Update With Hyperlinks." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -452,8 +450,6 @@
           <caret line="36" selection-start-line="36" selection-end-line="36" />
           <folding>
             <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#163#1343#0" />
-            <element signature="e#1410#1518#0" />
           </folding>
         </state>
       </provider>
@@ -549,9 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="8" column="53" lean-forward="true" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -786,7 +779,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/polls/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="255">
           <caret line="20" column="68" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -797,20 +790,20 @@
     <entry file="file://$PROJECT_DIR$/snippets/permissions.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="38" lean-forward="true" selection-start-column="38" selection-end-column="38" />
+          <caret column="38" selection-start-column="38" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mysite/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="417">
-          <caret line="102" column="5" lean-forward="true" selection-start-line="102" selection-start-column="5" selection-end-line="103" selection-end-column="54" />
+        <state relative-caret-position="1530">
+          <caret line="102" column="5" selection-start-line="102" selection-start-column="5" selection-end-line="103" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="225">
           <caret line="20" column="53" selection-start-line="20" selection-start-column="53" selection-end-line="20" selection-end-column="53" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
@@ -818,10 +811,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/snippets/serializers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/snippets/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-753">
-          <caret line="39" column="43" lean-forward="true" selection-start-line="39" selection-start-column="43" selection-end-line="39" selection-end-column="43" />
+        <state relative-caret-position="717">
+          <caret line="61" column="48" selection-start-line="61" selection-start-column="48" selection-end-line="61" selection-end-column="48" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -830,23 +833,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/snippets/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#0#32#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/snippets/serializers.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#0#38#0" expanded="true" />
-            <element signature="e#163#1343#0" />
-            <element signature="e#1410#1518#0" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="42" column="2" lean-forward="true" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
         </state>
       </provider>
     </entry>
